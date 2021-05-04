@@ -14,9 +14,8 @@
 
 ## Usage
   - The application provides the user with a word guessing game
-## Deployed Application
- 
-- 
+## Deployed Application 
+- ![image](https://user-images.githubusercontent.com/63420051/117059575-f30eeb80-aced-11eb-8592-45967f10eb91.png)
 ## Contribution 
   - Joseph Small
 ## License 
